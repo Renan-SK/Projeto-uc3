@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.ajuste{
+    width: 56%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+}
+
+.caixa{
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+
+.mini_caixa{
+    width: 80%;
+    height: 60%;
+    margin: auto;
+}
+
+.mini_caixa h1{
+    font-size: 43px;
+}
+
+.mini_caixa p{
+    font-size: 25px;
+}

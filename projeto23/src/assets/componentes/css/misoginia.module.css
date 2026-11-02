@@ -1,0 +1,13 @@
+.linha{
+    width: 95%;
+    height: 0.2%;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.ajuste_texto{
+    width: 95%;
+    margin: auto;
+    margin-top: 3%;
+}
